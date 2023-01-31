@@ -9,7 +9,7 @@ The goal of this lab assignment is to expand your use of iteration techniches th
 #### Over the course of this lab you will do a number of things:
 1. Practice using `while` and `for` loops for iteration but mainly focusing on the latter.
 2. Integrate `lists` into your loops.
-4. Continue to utilize Git on your Raspberry Pi to make changes.
+4. Continue to utilize GIT on your Raspberry Pi to make changes.
 
 ## 💻 Terms to know
 - loops
@@ -18,7 +18,7 @@ The goal of this lab assignment is to expand your use of iteration techniches th
 - `lists`
 
 ## 📝 Next steps
-1. Complete the work in the notebook here (5.6.1-For_Lopps.ipynb) using the CoLab interface.
+1. Complete the work in the notebook here (5_6_1_For_Loops.ipynb) using the CoLab interface.
 2. Using GIT, clone this repo to your Raspberry Pi.
 3. Using NANO and the terminal in your pi, create a new text file called "observations.txt" and write what you learned in this lab.
 4. Write a script in Python that does the following:
