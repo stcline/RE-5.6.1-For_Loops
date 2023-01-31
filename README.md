@@ -22,7 +22,7 @@ The goal of this lab assignment is to expand your use of iteration techniches th
 2. Using GIT, clone this repo to your Raspberry Pi.
 3. Using NANO and the terminal in your pi, create a new text file called "observations.txt" and write what you learned in this lab.
 4. Write a script in Python that does the following:
-    - Creates an empty list called "mountains_CO[]"
+    - Creates an empty list called "mountains_CO"
     - Asks the user how many mountains in Colorado that they can name.
     - Records those names by placing an `input()` function in a `for` loop that repeats exactly the same number of times as the user gave in the first question.
     - Reprints all of the names of those mountains using another `for` loop after the user has responded.
