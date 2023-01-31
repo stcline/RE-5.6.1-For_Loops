@@ -1,4 +1,4 @@
-# :robot: Loops and Conditionals
+# :robot: For Loops
 
 ## 🤓 Overview and learning outcomes 
 
